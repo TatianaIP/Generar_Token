@@ -1,4 +1,4 @@
-# generateToken-c-sharp
+# vidyo.io-generate-token-csharp
 Sample C# application to generate room tokens for Vidyo.io
 
 To build, open GenerateToken.sln in Visual Studio (created in VS 2013) and build.
